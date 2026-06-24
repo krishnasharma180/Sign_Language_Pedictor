@@ -31,10 +31,8 @@ A real-time Sign Language Recognition system that detects sign language gestures
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/krishnasharma180/Sign_Language_Pedictor.git
 cd Sign_Language_Predictor
-
-pip install -r requirements.txt
 ```
 
 ## Usage
